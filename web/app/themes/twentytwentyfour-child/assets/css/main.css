@@ -1,3 +1,7 @@
+body {
+  background-color: lightgreen;
+}
+
 .wp-block-site-title a {
-  color: crimson !important;
+  color: crimson;
 }

@@ -30,3 +30,4 @@ web/.htaccess
 wp-cli.local.yml
 
 *.sql
+*.sql.gz
