@@ -1167,6 +1167,24 @@
             "homepage": "https://wordpress.org/plugins/wp-optimize/"
         },
         {
+            "name": "wpackagist-theme/twentytwentythree",
+            "version": "1.0",
+            "source": {
+                "type": "svn",
+                "url": "https://themes.svn.wordpress.org/twentytwentyfour/",
+                "reference": "1.0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/theme/twentytwentyfour.1.0.zip"
+            },
+            "require": {
+                "composer/installers": "^1.0 || ^2.0"
+            },
+            "type": "wordpress-theme",
+            "homepage": "https://wordpress.org/themes/twentytwentyfour/"
+        },
+        {
             "name": "wpackagist-theme/twentytwentyfour",
             "version": "1.0",
             "source": {
