@@ -4,7 +4,7 @@ pipeline {
     stage('Hello') {
       steps {
         echo "Hello from Jenkinsfile"
-        sh 'echo cd ~/domains/test.sabiku85.usermd.net && git pull' 
+        sh 'echo cd ~/domains/test.sabiku85.usermd.net/public_html && git pull' 
       }
     }
   }
